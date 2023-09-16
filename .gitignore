@@ -1,0 +1,5 @@
+## virtual environment
+venv
+### ignore sqlite3
+db.sqlite3
+__pycache__
